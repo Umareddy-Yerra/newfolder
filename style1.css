@@ -241,6 +241,9 @@
       /* justify-content: center; */
 
 }
+.subdiv1 .head3,.head4,.head5{
+    padding-left: 40px;
+}
 .head1{
     border: 2px solid white;
     height: 50px;
